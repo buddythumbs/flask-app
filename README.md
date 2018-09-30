@@ -12,10 +12,14 @@
 mkdir <project-name> && cd <project-name>
 ```
 
-```Python
+```python
 python3.7 -m venv env
 ```
 
 ```shell
 touch app.py .gitignore README.md requirements.txt
+```
+
+```python
+pip install Flask gunicorn
 ```
