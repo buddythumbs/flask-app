@@ -1,7 +1,9 @@
 # Flask App
 
 ## Project checklist
-- [ ] Part 1
+
+### Part 1
+
   - [ ] Project Setup
   - [ ] Heroku Setup
   - [ ] Staging/Production Workflow
