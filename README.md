@@ -1,14 +1,14 @@
 # Flask App
 
 ## Project checklist
-
-- [ ] Project Setup
-    - [ ] Heroku Setup
-    - [ ] Staging/Production Workflow
-- [ ] Config Settings
-- [ ] Local Settings
-- [ ] Heroku Settings
-- [ ] Conclusion
+- [ ] Part 1
+  - [ ] Project Setup
+  - [ ] Heroku Setup
+  - [ ] Staging/Production Workflow
+  - [ ] Config Settings
+    - [ ] Local Settings
+    - [ ] Heroku Settings
+  - [ ] Conclusion
 
 ```shell
 mkdir <project-name> && cd <project-name>
