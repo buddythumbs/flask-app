@@ -2,11 +2,13 @@
 
 ## Project checklist
 
-- [ ] Create a project folder:
-- [ ] Create a virtual environment using Python3.7:
-- [ ] Create initial files in root directory
-- [ ] Intall dependencies
-- [ ] Create boilerplate code for Flask app in `app.py`
+- [ ] Project Setup
+    - [ ] Heroku Setup
+    - [ ] Staging/Production Workflow
+- [ ] Config Settings
+- [ ] Local Settings
+- [ ] Heroku Settings
+- [ ] Conclusion
 
 ```shell
 mkdir <project-name> && cd <project-name>
